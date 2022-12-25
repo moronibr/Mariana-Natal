@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- CSS only -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
+  <link rel="stylesheet" href="styles.css/body.css">
+  <title>FELIZ NATAL</title>
+</head>
+<body>
+
+  <div class="container mt-4">
+    <div class="row gy4 p-3">
+      <div class="col-lg-12 rounded">
+        <div style="height: ;" class="mr-auto ml-auto text-center bg-success rounded">
+          <h1>
+            MARIANA MEU AMOR, FELIZ NATAL
+
+          </h1>
+            <h3>
+              De: Moroni para: Mariana <br>
+              A dupla M e M melhor que m&m <3
+            </h3>  
+          
+          <img id="primeira-foto" src="img/Amor.jpg" class="img-fluid img-thumbnail alt="Mariana">
+    
+
+        </div>
+      </div>
+    </div>
+  
+    <div class="row gy4 p-3">
+      <div class="col-lg-12">
+        <div style="height: 650px;" class="mr-auto ml-auto text-center bg-success rounded">
+          <h1>
+            Fiz esse simples site pra demonstrar o meu amor por você, tomara que a caixa tenha chego, 
+            e mesmo que não tenha chego saiba que eu te amo e sinto muito a tua falta, espero que você possa sentir um pouco do meu amor por você 
+            com esse presente
+          </h1>
+            <img id="segunda-foto" src="img/Mariana.jpg" alt="Mariana">
+      
+        </div>
+      </div>
+    </div>
+
+      
+    <div class="row gy4 p-3">
+      <div class="col-lg-12">
+        <div style="height: 500px;" class="mr-auto ml-auto text-center bg-success rounded">
+          <h1>
+              Eu tenho um orgulho tão grande de você, por você ter escolhido deixar tudo pra trás inclusive as coisas do teu próprio interesse
+              pra servir uma missão
+          </h1>
+          <img id="terceira-foto" src="img/segunda-foto.jpg" alt="Mariana">
+
+        </div>
+      </div>
+    </div>
+
+
+      
+    <div class="row gy4 p-3">
+      <div class="col-lg-12">
+        <div style="height: 1000px;" class="mr-auto ml-auto text-center bg-success rounded">
+          <h1>
+           Além de ser linda, maravilhosa, ter um cabelo  lindo, um cheiro divino, o pé mais lindo do mundo, as mãos mais gostosas de segurar, uma pele
+           que brilha, entre outras coisas, você irradia uma luz por onde você passa, e acredite em mim TODO MUNDO VÊ ISSO, a esposa do juca no templo veio me falar
+           pra eu cuidar de você porque você é preciosa, a tania, todo mundo fala isso porque é visível, todos sabem que você é diferente quando te vêem
+          </h1>
+          <img id="quarta-foto" src="img/batismo.jpg" alt="Batismo">
+          
+      
+
+        </div>
+      </div>
+    </div>
+
+
+      
+    <div class="row gy4 p-3">
+      <div class="col-lg-12">
+        <div style="height: 700px;" class="mr-auto ml-auto text-center bg-success rounded">
+          <h1>
+            Eu espero que um dia eu tenha como expressar o meu por você com palavras, e se eu não conseguir vou fazer o que você me ensinou
+            "No es lo que dices, es lo que fazes"
+          </h1>
+          
+          <img id="quinta-foto" src="img/familia.jpg" alt="Família">
+
+        </div>
+      </div>
+    </div>
+
+
+      
+    <div class="row gy4 p-3">
+      <div class="col-lg-12">
+        <div style="height: 200px;" class="mr-auto ml-auto text-center bg-success rounded">
+          <h1>
+            Mariana
+          </h1>
+          <p>
+            Mariana Lagardere
+          </p>
+
+        </div>
+      </div>
+    </div>
+
+
+      
+    <div class="row gy4 p-3">
+      <div class="col-lg-12">
+        <div style="height: 200px;" class="mr-auto ml-auto text-center bg-success rounded">
+          <h1>
+            Mariana
+          </h1>
+          <p>
+            Mariana Lagardere
+          </p>
+
+        </div>
+      </div>
+    </div>
+
+
+      
+    <div class="row gy4 p-3">
+      <div class="col-lg-12">
+        <div style="height: 200px;" class="mr-auto ml-auto text-center bg-success rounded">
+          <h1>
+            Mariana
+          </h1>
+          <p>
+            Mariana Lagardere
+          </p>
+
+        </div>
+      </div>
+    </div>
+
+
+      
+    <div class="row gy4 p-3">
+      <div class="col-lg-12">
+        <div style="height: 200px;" class="mr-auto ml-auto text-center bg-success rounded">
+          <h1>
+            Mariana
+          </h1>
+          <p>
+            Mariana Lagardere
+          </p>
+
+        </div>
+      </div>
+    </div>
+
+
+      
+    <div class="row gy4 p-3">
+      <div class="col-lg-12">
+        <div style="height: 200px;" class="mr-auto ml-auto text-center bg-success rounded">
+          <h1>
+            Mariana
+          </h1>
+          <p>
+            Mariana Lagardere
+          </p>
+
+        </div>
+      </div>
+    </div>
+
+
+  </div>
+
+</body>
+</html>
